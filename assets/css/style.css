@@ -1,0 +1,89 @@
+/*Navbar*/
+.navbar-style {
+    padding: 30px;
+}
+a {
+    margin: 20px;
+}
+/*Header*/
+#Hero-Section {
+    background-image: url(../img/bg-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    color: #FFFFFF;
+    padding: 20px;
+    align-items: end;
+    font-size: 20px;
+}
+#Hero-Section button{
+    margin: 8px;
+    width: 30%;
+    color: #FFFFFF;
+}
+.titulo {
+    font-size: 45px;
+    font-weight: bold;
+}
+.container2 {
+    text-align: right;
+    font-weight: 700;
+}
+/*Acerca de mí*/
+#Acerca-de-Mi {
+    padding: 20px;
+}
+.titulo2 {
+    font-size: 45px;
+    font-weight: bold;
+    margin: 10px;
+}
+i {
+    width: 100%;
+    font-size: 65px;
+    padding: 25px;
+}
+/*Mis trabajos*/
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.trabajo {
+    padding: 20px;
+    background-color: #17A2B8;
+    color: #FFFFFF;
+}
+.card {
+    margin: 10px;
+    width: 18rem;
+}
+img {
+    text-align: center;
+    justify-content: center;
+}
+.row .card .card-img-top{
+    padding: 10px;
+}
+/*Contáctame*/
+.contacto {
+    text-align: center;
+    padding: 20px;
+}
+.form {
+    /* border-style: dashed; */
+    padding: 40px;
+}
+.form button {
+    /* justify-content: end; */
+    background-color: #17A2B8;
+}
+/*Footer*/
+footer {
+    background-color: black;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+}
